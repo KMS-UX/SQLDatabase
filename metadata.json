@@ -1,0 +1,6 @@
+{
+  "name": "SQLite FTS5 Scratchpad & Repository Indexer",
+  "description": "Systems architect workspace, SQLite FTS5 database schema, synchronous search virtual table indexer, and real-time query console for code, markdown, and JSON.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
